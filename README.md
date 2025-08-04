@@ -32,7 +32,7 @@
 
 ### 🌀 Splash Screen
 
-<img src="assets/splash-screen.gif" width="35%"/>
+<img src="assets/splash-screen.gif" width="30%"/>
 
 ### 📅 Signup & Login
 
